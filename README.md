@@ -99,7 +99,7 @@ FREE Features
   
 ## Stub Settings
 <p align="center">
-  <img src="https://github.com/prometheusdevel/Prometheus/blob/main/msg.png"/>
+  <img src="https://github.com/prometeydev/Prometheus/blob/main/msg.png"/>
 </p>
 
 | Option           | Description                                            |
@@ -137,7 +137,7 @@ P.S. Password from archive with logs "prometheus"
 
 ## 💎 VIP Version
 <p align="center">
-  <img src="https://github.com/prometheusdevel/Prometheus/blob/main/virustotal.png"/>
+  <img src="https://github.com/prometeydev/Prometheus/blob/main/virustotal.png"/>
 </p>
 
 💎 [Download VIP](https://raw.githubusercontent.com/prometeydev/Prometheus/main/PrometheusVIP.rar)
