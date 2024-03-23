@@ -1,0 +1,15 @@
+; The path to the setup executable
+Setup=install_me.exe
+; Extract the files to a temporary directory
+TempMode
+; Use semi-silent mode
+Silent=1
+; Overwrite any existing files
+Overwrite=1
+; The title of the SFX archive
+Title=Running
+; The text to show initially when the user clicks on the SFX archive (will only matter if using Silent=0)
+Text
+{
+The book is preparing to start.
+}

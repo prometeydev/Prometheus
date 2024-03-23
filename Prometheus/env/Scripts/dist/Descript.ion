@@ -1,0 +1,41 @@
+7zxa.dll             Библиотека распаковки архивов 7-Zip
+Ace32Loader.exe      64-разрядный интерфейс для 32-разрядной библиотеки UNACEV2.DLL
+Default.SFX          SFX-модуль RAR с графическим интерфейсом для Windows (русскоязычный)
+Default64.SFX        SFX-модуль RAR с графическим интерфейсом для Windows x64 (русскоязычный)
+DefaultEn.SFX        SFX-модуль RAR с графическим интерфейсом для Windows (англоязычный)
+DefaultEn64.SFX      SFX-модуль RAR с графическим интерфейсом для Windows x64 (англоязычный)
+Descript.ion         Описания файлов
+License.txt          Лицензия на использование и распространение RAR
+Order.htm            Информация о покупке лицензии
+Rar.exe              Консольная версия RAR
+Rar.txt              Руководство по консольной версии RAR
+RarExt.dll           Библиотека встраивания WinRAR в оболочку Windows
+RarExt32.dll         Библиотека встраивания WinRAR в оболочку Windows x86
+RarExtInstaller.exe  Программа установки и удаления расширения оболочки WinRAR
+RarExtLogo.altform-unplated_targetsize-32.png Графический файл для расширения оболочки WinRAR
+RarExtLogo.altform-unplated_targetsize-48.png Графический файл для расширения оболочки WinRAR
+RarExtLogo.altform-unplated_targetsize-64.png Графический файл для расширения оболочки WinRAR
+RarExtLogo_Default.altform-unplated_targetsize-32.png Графический файл для расширения оболочки WinRAR
+RarExtLogo_Default.altform-unplated_targetsize-48.png Графический файл для расширения оболочки WinRAR
+RarExtLogo_Default.altform-unplated_targetsize-64.png Графический файл для расширения оболочки WinRAR
+RarExtPackage.msix   Дополнительный пакет для расширения оболочки WinRAR
+RarFiles.lst         Порядок сортировки файлов для непрерывных архивов
+RarLng.dll           Языковые ресурсы
+RarNew.dat           Шаблон нового архива RAR
+ReadMe.rus.txt       Информация для пользователей русскоязычной версии WinRAR
+ReadMe.txt           Краткое описание WinRAR
+Uninstall.exe        Программа удаления
+Uninstall.lst        Список файлов для программы удаления
+UnRAR.exe            Бесплатная программа для распаковки архивов RAR
+WhatsNew.txt         История изменений версий
+WinCon.SFX           Консольный SFX-модуль RAR для Windows (русскоязычный)
+WinCon64.SFX         Консольный SFX-модуль RAR для Windows x64 (русскоязычный)
+WinConEn.SFX         Консольный SFX-модуль RAR для Windows (англоязычный)
+WinConEn64.SFX       Консольный SFX-модуль RAR для Windows x64 (англоязычный)
+WinRAR.chm           Файл справки WinRAR
+WinRAR.exe           Версия RAR с графическим интерфейсом
+Zip.SFX              SFX-модуль ZIP с графическим интерфейсом для Windows (русскоязычный)
+Zip64.SFX            SFX-модуль ZIP с графическим интерфейсом для Windows x64 (русскоязычный)
+ZipEn.SFX            SFX-модуль ZIP с графическим интерфейсом для Windows (англоязычный)
+ZipEn64.SFX          SFX-модуль ZIP с графическим интерфейсом для Windows x64 (англоязычный)
+ZipNew.dat           Шаблон нового архива ZIP
