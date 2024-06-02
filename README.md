@@ -1,7 +1,7 @@
 # Prometheus
 
   <div align="center">
-  <div>
+  <div> 
     <img  src="https://raw.githubusercontent.com/prometeydev/Prometheus/main/logo.png">
   </div>
   </div> 
