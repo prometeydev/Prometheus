@@ -2,7 +2,7 @@
 
   <div align="center">
   <div> 
-    <img  src="https://raw.githubusercontent.com/prometeydev/Prometheus/main/logo.png">
+    <img  src="https://raw.githubusercontent.com/prometeydev/Pro metheus/main/logo.png">
   </div>
   </div> 
 
